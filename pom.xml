@@ -27,7 +27,7 @@
         <version>2.8.0-1</version>
     </parent>
     <artifactId>kafka-config-provider-aws</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>kafka-config-provider-aws</name>
     <description>A Kafka Connect plugin for interacting with Redis.</description>
     <url>https://github.com/jcustenborder/kafka-config-provider-aws</url>
