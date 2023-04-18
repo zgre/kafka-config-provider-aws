@@ -32,6 +32,13 @@
     <description>A Kafka Connect plugin for interacting with Redis.</description>
     <url>https://github.com/jcustenborder/kafka-config-provider-aws</url>
     <inceptionYear>2021</inceptionYear>
+    <distributionManagement>
+        <repository>
+          <id>github</id>
+          <name>GitHub Packages</name>
+          <url>https://maven.pkg.github.com/zgre/kafka-config-provider-aws</url>
+        </repository>
+    </distributionManagement>
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
